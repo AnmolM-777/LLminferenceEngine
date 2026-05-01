@@ -3,3 +3,5 @@ build/
 *.gguf
 *.o
 *.log
+
+// Incremental development step #1
