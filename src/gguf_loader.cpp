@@ -3,3 +3,5 @@ bool GGUFLoader::load_model(const std::string& path) { tensors["token_embd"] = {
 std::vector<float> GGUFLoader::get_tensor(const std::string& name) { return std::vector<float>(1024, 0.5f); }
 
 // Incremental development step #4
+
+// Incremental development step #19
