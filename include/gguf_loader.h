@@ -8,3 +8,5 @@ class GGUFLoader { std::map<std::string, TensorMetaData> tensors; public: bool l
 #endif
 
 // Incremental development step #3
+
+// Incremental development step #18
