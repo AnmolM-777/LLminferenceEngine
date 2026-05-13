@@ -6,3 +6,5 @@ class Quantizer { public: static std::vector<float> dequantize_q4_0(const uint8_
 #endif
 
 // Incremental development step #5
+
+// Incremental development step #20
