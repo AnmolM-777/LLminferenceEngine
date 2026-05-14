@@ -3,3 +3,5 @@ std::vector<float> Quantizer::dequantize_q4_0(const uint8_t* data, size_t size, 
 std::vector<float> Quantizer::dequantize_q8_0(const int8_t* data, size_t size, float scale) { std::vector<float> out(size); for (size_t i = 0; i < size; ++i) { out[i] = data[i] * scale; } return out; }
 
 // Incremental development step #6
+
+// Incremental development step #21
