@@ -5,3 +5,5 @@ class SpeculativeDecoder { public: static bool verify_draft_tokens(const std::ve
 #endif
 
 // Incremental development step #11
+
+// Incremental development step #26
