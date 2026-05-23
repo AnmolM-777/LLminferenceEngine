@@ -5,3 +5,5 @@ std::vector<float> Quantizer::dequantize_q8_0(const int8_t* data, size_t size, f
 // Incremental development step #6
 
 // Incremental development step #21
+
+// Incremental development step #36
