@@ -4,3 +4,5 @@ std::vector<float> SIMDKernels::matmul_q4_0(const std::vector<float>& vec) { std
 // Incremental development step #8
 
 // Incremental development step #23
+
+// Incremental development step #38
