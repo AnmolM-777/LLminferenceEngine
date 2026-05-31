@@ -7,3 +7,5 @@ std::vector<float> GGUFLoader::get_tensor(const std::string& name) { return std:
 // Incremental development step #19
 
 // Incremental development step #34
+
+// Incremental development step #49
