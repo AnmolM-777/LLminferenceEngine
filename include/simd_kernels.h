@@ -13,3 +13,5 @@ class SIMDKernels { public: static std::vector<float> matmul_q4_0(const std::vec
 // Incremental development step #52
 
 // Incremental development step #67
+
+// Incremental development step #82
