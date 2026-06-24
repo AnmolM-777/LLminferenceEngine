@@ -10,3 +10,5 @@ bool SpeculativeDecoder::verify_draft_tokens(const std::vector<int>& draft, cons
 // Incremental development step #57
 
 // Incremental development step #72
+
+// Incremental development step #87
